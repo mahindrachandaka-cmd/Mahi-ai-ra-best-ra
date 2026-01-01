@@ -1,0 +1,8 @@
+{
+  "name": "Mahi AI Dev",
+  "description": "A next-generation AI Developer Platform that converts prompts into full apps with live preview, source code access, and a futuristic 3D UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
